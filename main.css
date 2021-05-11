@@ -217,6 +217,11 @@ ul li {
   font-family: "Lora Regular", sans-serif;
 }
 
+.card-footer {
+
+  background-color: #FEE715;
+} 
+
 /* contact Section */
 
 .contact {
