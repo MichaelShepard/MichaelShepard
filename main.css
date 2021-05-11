@@ -196,13 +196,24 @@ ul li {
 
 /* portfolio Section */
 
-
 .portfolio {
   width: 100%;
-  padding: 0;
-  background: #000;
+  margin-top: 50px;
+  
 }
 
+.portfolio a {
+  color:grey;
+}
+
+.portfolio h1 {
+  margin: 0 0 10px 0;
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 56px;
+  color: #fff;
+  font-family: "Lora Regular", sans-serif;
+}
 
 /* contact Section */
 
